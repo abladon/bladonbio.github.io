@@ -8,7 +8,7 @@ title: ""
 
 ## Breaking the bioinformatics bottleneck
 
-Biotech companies need to move fast. Fundraising, clinical milestones, customer collaborations and ongoing R&D projects all rely on insights from data to make progress. With developments in sequencing technologies, the volume of data and the number of modalities just keeps increasing. The processing and analysis of this data is often the limiting factor.
+Biotech companies need to move fast. Fundraising, clinical milestones, customer collaborations and ongoing R&D projects all rely on insights from data to make progress. With developments in sequencing technologies and multiomics, the volume of data and the number of modalities just keeps increasing. The processing and analysis of this data is often the limiting factor.
 
 A bioinformatics consultant can help take the pressure off. You can deploy their technical and industry expertise quickly to unblock projects with no long-term financial risk.
 
