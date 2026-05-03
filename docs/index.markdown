@@ -8,9 +8,9 @@ title: ""
 
 ## Breaking the bioinformatics bottleneck
 
-Biotech companies need to move fast. Fundraising, clinical milestones, customer collaborations and ongoing R&D projects all rely on insights from data to make progress. With developments in sequencing technologies and multiomics, the volume of data and the number of modalities just keeps increasing. The processing and analysis of this data is often the limiting factor.
+Biotech companies need to move fast. Fundraising, clinical milestones, customer collaborations and ongoing R&D projects all rely on insights from data to make progress. With ongoing developments in sequencing technologies and multiomics, the volume of data and the number of modalities just keeps increasing. The processing and analysis of this data is often the limiting factor.
 
-A bioinformatics consultant can help take the pressure off. You can deploy their technical and industry expertise quickly to unblock projects with no long-term financial risk.
+A bioinformatics consultant can help take the pressure off. You can quickly deploy their technical and industry expertise to unblock projects.
 
 You may need a bioinformatics consultant if:
 
@@ -33,7 +33,7 @@ I can work independently on specific deliverables with defined timelines, or I c
 
 ## Get in touch
 
-If you’d like to discuss what I can bring to your business,
-reach out via [LinkedIn](https://www.linkedin.com/in/alex-bladon-6b94ab53/) or email (alex@bladonbio.co.uk).
+If you’d like to talk about what I can bring to your business,
+reach out via [LinkedIn](https://www.linkedin.com/in/alex-bladon-6b94ab53/) or [email me](mailto:alex@bladonbio.co.uk) at alex@bladonbio.co.uk.
 I’ll arrange an initial 30-minute call to discuss your needs.
 
