@@ -22,7 +22,7 @@ title: Alex Bladon - Bioinformatics Consulting
 email: alex@bladonbio.co.uk
 author: Alex Bladon
 description: >- # this means to ignore newlines until "baseurl:"
-baseurl: "/bladonbio.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://abladon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
